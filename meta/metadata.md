@@ -2,12 +2,13 @@
 
 ## 量潮工作手册
 
-量潮工作手册已发布 0.2.0 版本
+量潮工作手册已发布 0.0.1 版本
 链接：GitHub - quanttide/quanttide-handbook: 量潮工作手册
 要点：
+- 初始化项目结构，建立量潮工作手册基础框架
 - 采用 Jupyter Book 结构管理多个独立手册
 - 涵盖业务、研发、管理、语言框架工具、学科行业等多个分类
-- 增加发布流水线；修改部分配置
+- 新增子模块：entity/company、entity/founder
 
 ## 业务手册
 
@@ -56,3 +57,21 @@
 ## 学科/行业手册
 
 - 高等教育手册
+
+## 子模块
+
+### 企业实体手册
+
+企业实体手册已发布 0.0.1 版本
+链接：GitHub - quanttide/quanttide-handbook-of-business-entity: 企业实体手册
+要点：
+- 初始化项目结构，建立企业实体手册基础框架
+- 添加供应链管理（scm）目录
+
+### 创始人手册
+
+创始人手册已发布 0.0.1 版本
+链接：GitHub - quanttide/quanttide-handbook-of-founder: 创始人手册
+要点：
+- 初始化项目结构，建立创始人手册基础框架
+- 添加 AGENTS.md - Agent 工作指南
