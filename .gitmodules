@@ -1,0 +1,6 @@
+[submodule "entity/company"]
+	path = entity/company
+	url = https://github.com/quanttide/quanttide-handbook-of-business-entity.git
+[submodule "entity/founder"]
+	path = entity/founder
+	url = https://github.com/quanttide/quanttide-handbook-of-founder.git
