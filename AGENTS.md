@@ -81,7 +81,3 @@ git commit -m "Update submodule reference"
 - [ ] 更新父仓库子模块引用
 - [ ] 更新 CHANGELOG.md
 - [ ] 验证构建无错误
-
-## 相关参考
-
-- 父仓库 AGENTS.md: `/Users/mac/repos/quanttide/AGENTS.md`
