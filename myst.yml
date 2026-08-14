@@ -39,7 +39,7 @@ project:
       children:
         - url: https://quanttide.github.io/quanttide-handbook-of-management/
           title: 团队管理手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-product-development/
+        - file: management/product-development.md
           title: 产品研发手册
         - url: https://quanttide.github.io/quanttide-handbook-of-collaboration/
           title: 团队协作手册

@@ -5,7 +5,7 @@
 ## 子手册
 
 - [团队管理手册](https://quanttide.github.io/quanttide-handbook-of-management/)
-- [产品研发手册](https://quanttide.github.io/quanttide-handbook-of-product-development/)
+- 产品研发手册：需求、规划、设计、研发、验收、上线和复盘，已在本地页展开。
 - [团队协作手册](https://quanttide.github.io/quanttide-handbook-of-collaboration/)
 - [项目管理手册](https://quanttide.github.io/quanttide-handbook-of-project-management/)
 - [数字资产管理手册](https://quanttide.github.io/quanttide-handbook-of-digital-assets/)
