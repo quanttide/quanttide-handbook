@@ -41,7 +41,7 @@ project:
           title: 团队管理手册
         - file: management/product-development.md
           title: 产品研发手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-collaboration/
+        - file: management/collaboration.md
           title: 团队协作手册
         - url: https://quanttide.github.io/quanttide-handbook-of-project-management/
           title: 项目管理手册
