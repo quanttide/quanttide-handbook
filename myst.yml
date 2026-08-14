@@ -11,6 +11,13 @@ project:
   source: https://github.com/quanttide/quanttide-handbook/tree/main
   toc:
     - file: index.md
+    - file: business.md
+    - file: engineering.md
+    - file: management.md
+    - file: languages-frameworks-tools.md
+    - file: disciplines-industries.md
 
 site:
   template: book-theme
+  options:
+    folders: true

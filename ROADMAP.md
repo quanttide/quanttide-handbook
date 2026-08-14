@@ -7,6 +7,7 @@
 ### Added
 
 - [x] 建立量潮工作手册总导航页
+- [x] 建立五个一级目录页并挂接到总入口
 - [x] 接入 MyST HTML 构建
 - [x] 准备 qtdocs-site OSS 发布 workflow
 
