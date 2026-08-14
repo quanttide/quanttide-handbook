@@ -12,10 +12,81 @@ project:
   toc:
     - file: index.md
     - file: business.md
+      children:
+        - url: https://quanttide.github.io/quanttide-handbook-of-enterprise-services/
+          title: 企业服务手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-client-services/
+          title: 客户端服务手册
     - file: engineering.md
+      children:
+        - url: https://quanttide.github.io/quanttide-handbook-of-developer-tools/
+          title: 开发者工具手册
+        - url: https://docs.quanttide.com/quanttide-handbook/engineering/devops/
+          title: DevOps手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-network-applications/
+          title: 网络应用手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-data-engineering/
+          title: 数据工程手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-cloud-computing/
+          title: 云计算手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-data-analytics/
+          title: 数据分析手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-generative-ai/
+          title: 生成式人工智能手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-digital-identities/
+          title: 数字身份手册
     - file: management.md
+      children:
+        - url: https://quanttide.github.io/quanttide-handbook-of-management/
+          title: 团队管理手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-product-development/
+          title: 产品研发手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-collaboration/
+          title: 团队协作手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-project-management/
+          title: 项目管理手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-digital-assets/
+          title: 数字资产管理手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-documentation/
+          title: 文档管理手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-customer-support/
+          title: 客户支持手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-finance/
+          title: 财务管理手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-legal-management/
+          title: 法务管理手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-open-source/
+          title: 开源管理手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-public-relations/
+          title: 公共关系手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-competitions/
+          title: 创赛管理手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-new-media/
+          title: 新媒体管理手册
     - file: languages-frameworks-tools.md
+      children:
+        - url: https://quanttide.github.io/quanttide-handbook-of-c-language/
+          title: C语言手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-django/
+          title: Django手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-docker/
+          title: Docker手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-fastapi/
+          title: FastAPI手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-figjam/
+          title: FigJam手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-figma/
+          title: Figma手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-flutter/
+          title: Flutter手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-openapi/
+          title: OpenAPI手册
+        - url: https://quanttide.github.io/quanttide-handbook-of-python/
+          title: Python手册
     - file: disciplines-industries.md
+      children:
+        - url: https://quanttide.github.io/quanttide-handbook-of-higher-education/
+          title: 高等教育手册
 
 site:
   template: book-theme

@@ -20,6 +20,7 @@
 
 - 将研发目录中的 DevOps 手册链接切换到 `docs.quanttide.com/quanttide-handbook/engineering/devops/`。
 - 总入口部署不再递归清理 `quanttide-handbook/` 前缀，以保留子手册发布内容。
+- 将五个一级目录的子手册挂入 MyST TOC 子树，左侧目录可直接展开查看子手册。
 
 ## [0.0.1] - 2026-03-05
 
