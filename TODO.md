@@ -6,5 +6,5 @@
 - [x] 新增 MyST 项目配置（myst.yml）
 - [x] 新增 OSS 部署 workflow（.github/workflows/deploy-oss.yml）
 - [x] 确认发布地址（https://docs.quanttide.com/quanttide-handbook/）
-- [ ] 推送 main 并确认 GitHub Actions 成功
-- [ ] 验收线上地址（https://docs.quanttide.com/quanttide-handbook/）
+- [x] 推送 main 并确认 GitHub Actions 成功
+- [x] 验收线上地址（https://docs.quanttide.com/quanttide-handbook/）
