@@ -38,5 +38,4 @@ jobs:
 
       - name: Upload to OSS
         run: |
-          ossutil rm oss://qtdocs-site/quanttide-handbook/ -r -f || true
           ossutil cp ./_build/html/ oss://qtdocs-site/quanttide-handbook/ -r -f --meta=Cache-Control:public,max-age=300

@@ -19,6 +19,7 @@
 ### Changed
 
 - 将研发目录中的 DevOps 手册链接切换到 `docs.quanttide.com/quanttide-handbook/engineering/devops/`。
+- 总入口部署不再递归清理 `quanttide-handbook/` 前缀，以保留子手册发布内容。
 
 ## [0.0.1] - 2026-03-05
 
