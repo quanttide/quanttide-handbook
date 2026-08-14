@@ -9,3 +9,4 @@
 - [x] 推送 main 并确认 GitHub Actions 成功
 - [x] 验收线上地址（https://docs.quanttide.com/quanttide-handbook/）
 - [x] 验收五个一级目录页上线
+- [x] 将研发目录的数据工程手册改为本地页

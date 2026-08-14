@@ -25,7 +25,7 @@ project:
           title: DevOps手册
         - url: https://quanttide.github.io/quanttide-handbook-of-network-applications/
           title: 网络应用手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-data-engineering/
+        - file: engineering/data-engineering.md
           title: 数据工程手册
         - url: https://quanttide.github.io/quanttide-handbook-of-cloud-computing/
           title: 云计算手册
