@@ -10,6 +10,11 @@
 
 ## [Unreleased]
 
+### Added
+
+- 新增量潮工作手册总导航页，展示 `_toc.yml` 中 5 个一级目录和 33 个子手册链接。
+- 新增 MyST 文档站配置和 qtdocs-site OSS 部署 workflow。
+
 ## [0.0.1] - 2026-03-05
 
 ### 探索期

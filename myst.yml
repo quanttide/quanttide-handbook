@@ -1,0 +1,16 @@
+version: 1
+project:
+  title: 量潮工作手册
+  description: 量潮工作手册体系的总导航入口
+  keywords: [工作手册, 量潮, 导航]
+  authors:
+    - name:
+        literal: 量潮科技
+      email: opensource@quanttide.com
+  github: https://github.com/quanttide/quanttide-handbook
+  source: https://github.com/quanttide/quanttide-handbook/tree/main
+  toc:
+    - file: index.md
+
+site:
+  template: book-theme
