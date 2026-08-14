@@ -21,7 +21,7 @@ project:
       children:
         - url: https://quanttide.github.io/quanttide-handbook-of-developer-tools/
           title: 开发者工具手册
-        - url: https://docs.quanttide.com/quanttide-handbook/engineering/devops/
+        - file: engineering/devops.md
           title: DevOps手册
         - url: https://quanttide.github.io/quanttide-handbook-of-network-applications/
           title: 网络应用手册
