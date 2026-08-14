@@ -20,6 +20,7 @@
   - `engineering/generative-ai.md`
   - `languages-frameworks-tools/python.md`
   - `engineering/cloud-computing.md`
+  - `languages-frameworks-tools/flutter.md`
 - 后续新增内容从这批页面之后继续排，不再把它们当成待上线对象。
 
 ## 目录结构
