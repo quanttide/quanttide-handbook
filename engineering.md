@@ -10,5 +10,5 @@
 - 数据工程手册：数据采集、清洗治理、托管执行、报告交付和复盘，已在本地页展开。
 - [云计算手册](https://quanttide.github.io/quanttide-handbook-of-cloud-computing/)
 - [数据分析手册](https://quanttide.github.io/quanttide-handbook-of-data-analytics/)
-- [生成式人工智能手册](https://quanttide.github.io/quanttide-handbook-of-generative-ai/)
+- 生成式人工智能手册：提示编排、模型调用、结果校验、交付和复盘，已在本地页展开。
 - [数字身份手册](https://quanttide.github.io/quanttide-handbook-of-digital-identities/)

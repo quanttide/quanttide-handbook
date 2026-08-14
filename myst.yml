@@ -31,7 +31,7 @@ project:
           title: 云计算手册
         - url: https://quanttide.github.io/quanttide-handbook-of-data-analytics/
           title: 数据分析手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-generative-ai/
+        - file: engineering/generative-ai.md
           title: 生成式人工智能手册
         - url: https://quanttide.github.io/quanttide-handbook-of-digital-identities/
           title: 数字身份手册
