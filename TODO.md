@@ -8,4 +8,4 @@
 - [x] 确认发布地址（https://docs.quanttide.com/quanttide-handbook/）
 - [x] 推送 main 并确认 GitHub Actions 成功
 - [x] 验收线上地址（https://docs.quanttide.com/quanttide-handbook/）
-- [ ] 验收五个一级目录页上线
+- [x] 验收五个一级目录页上线
