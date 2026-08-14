@@ -5,7 +5,7 @@
 ## 子手册
 
 - [开发者工具手册](https://quanttide.github.io/quanttide-handbook-of-developer-tools/)
-- [DevOps手册](https://quanttide.github.io/quanttide-handbook-of-devops/)
+- [DevOps手册](https://docs.quanttide.com/quanttide-handbook/engineering/devops/)
 - [网络应用手册](https://quanttide.github.io/quanttide-handbook-of-network-applications/)
 - [数据工程手册](https://quanttide.github.io/quanttide-handbook-of-data-engineering/)
 - [云计算手册](https://quanttide.github.io/quanttide-handbook-of-cloud-computing/)

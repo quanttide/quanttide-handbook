@@ -16,6 +16,10 @@
 - 新增五个一级目录页：业务、研发、管理、语言/框架/工具、学科/行业。
 - 新增 MyST 文档站配置和 qtdocs-site OSS 部署 workflow。
 
+### Changed
+
+- 将研发目录中的 DevOps 手册链接切换到 `docs.quanttide.com/quanttide-handbook/engineering/devops/`。
+
 ## [0.0.1] - 2026-03-05
 
 ### 探索期
