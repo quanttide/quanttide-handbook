@@ -81,7 +81,7 @@ project:
           title: Flutter手册
         - url: https://quanttide.github.io/quanttide-handbook-of-openapi/
           title: OpenAPI手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-python/
+        - file: languages-frameworks-tools/python.md
           title: Python手册
     - file: disciplines-industries.md
       children:

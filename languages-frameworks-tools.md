@@ -12,4 +12,4 @@
 - [Figma手册](https://quanttide.github.io/quanttide-handbook-of-figma/)
 - [Flutter手册](https://quanttide.github.io/quanttide-handbook-of-flutter/)
 - [OpenAPI手册](https://quanttide.github.io/quanttide-handbook-of-openapi/)
-- [Python手册](https://quanttide.github.io/quanttide-handbook-of-python/)
+- Python手册：Python 环境、依赖、开发、测试、发布和维护，已在本地页展开。
