@@ -11,7 +11,7 @@
 - [数字资产管理手册](https://quanttide.github.io/quanttide-handbook-of-digital-assets/)
 - [文档管理手册](https://quanttide.github.io/quanttide-handbook-of-documentation/)
 - [客户支持手册](https://quanttide.github.io/quanttide-handbook-of-customer-support/)
-- [财务管理手册](https://quanttide.github.io/quanttide-handbook-of-finance/)
+- 财务管理手册：现金流、采购、预算、付款和财务规则留痕，已在本地页展开。
 - [法务管理手册](https://quanttide.github.io/quanttide-handbook-of-legal-management/)
 - [开源管理手册](https://quanttide.github.io/quanttide-handbook-of-open-source/)
 - [公共关系手册](https://quanttide.github.io/quanttide-handbook-of-public-relations/)

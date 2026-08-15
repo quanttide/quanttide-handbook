@@ -51,7 +51,7 @@ project:
           title: 文档管理手册
         - url: https://quanttide.github.io/quanttide-handbook-of-customer-support/
           title: 客户支持手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-finance/
+        - file: management/finance.md
           title: 财务管理手册
         - url: https://quanttide.github.io/quanttide-handbook-of-legal-management/
           title: 法务管理手册
