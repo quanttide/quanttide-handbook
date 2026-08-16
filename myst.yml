@@ -45,7 +45,7 @@ project:
           title: 团队协作手册
         - url: https://quanttide.github.io/quanttide-handbook-of-project-management/
           title: 项目管理手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-digital-assets/
+        - file: management/digital-assets.md
           title: 数字资产管理手册
         - url: https://quanttide.github.io/quanttide-handbook-of-documentation/
           title: 文档管理手册
@@ -59,7 +59,7 @@ project:
           title: 开源管理手册
         - url: https://quanttide.github.io/quanttide-handbook-of-public-relations/
           title: 公共关系手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-competitions/
+        - file: management/competitions.md
           title: 创赛管理手册
         - url: https://quanttide.github.io/quanttide-handbook-of-new-media/
           title: 新媒体管理手册
