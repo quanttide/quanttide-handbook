@@ -38,7 +38,7 @@ flutter create <your-dir>
 
 ## 配置和入口
 
-源素材里将`pubspec.yaml`作为配置核心。所有依赖、资源、字体、插件和包信息都应通过它维护。
+`pubspec.yaml`是配置核心。所有依赖、资源、字体、插件和包信息都应通过它维护。
 
 工程入口要明确：
 
@@ -94,7 +94,7 @@ Model 抽象类至少需要：
 
 ## 私有包和插件
 
-Flutter 私有 package 的源素材里给出几种方案。
+Flutter 私有 package 可以先按几种方案评估。
 
 ### 公开 Git 地址
 
@@ -114,7 +114,7 @@ SSH 可行，Dart 官方支持 Git package 通过 SSH 访问，Coding 也支持 
 
 ### Deploy Token
 
-Deploy Token 思路优雅，但源素材判断为不可行。
+Deploy Token 思路优雅，但当前不作为可行方案。
 
 原因：
 
@@ -138,7 +138,7 @@ Deploy Token 思路优雅，但源素材判断为不可行。
 
 ### 制品库
 
-源素材判断 Coding 暂不支持相关制品库能力，因此当前不作为主方案。
+Coding 暂不支持相关制品库能力，因此当前不作为主方案。
 
 ## 低码和原型
 
@@ -153,7 +153,7 @@ FlutterFlow 可以作为低码或原型工具关注。
 限制：
 
 - FlutterFlow 的组件还不完整。
-- 源素材中特别提到缺少`ExpansionPanelList`等需要的组件。
+- 缺少`ExpansionPanelList`等需要的组件。
 - 导出代码后仍要由开发检查结构、状态和可维护性。
 
 ## 测试
@@ -180,12 +180,12 @@ flutter test
 
 Flutter CI 可以通过 GitHub Actions 组织。
 
-源素材里提到：
+可用工具包括：
 
 - `flutter-action`：提供 Flutter 环境。
 - `flutter-gh-pages`：将 Flutter for Web 部署到 GitHub Pages。
 
-Flutter Web 也可以部署到云开发静态网站托管。源素材理由是：方便做 DevOps 流程、有技术支持、团队更熟悉云开发。
+Flutter Web 也可以部署到云开发静态网站托管。主要理由是：方便做 DevOps 流程、有技术支持、团队更熟悉云开发。
 
 CI 检查项：
 

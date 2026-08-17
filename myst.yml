@@ -37,13 +37,13 @@ project:
           title: 数字身份手册
     - file: management.md
       children:
-        - url: https://quanttide.github.io/quanttide-handbook-of-management/
+        - file: management/team-management.md
           title: 团队管理手册
         - file: management/product-development.md
           title: 产品研发手册
         - file: management/collaboration.md
           title: 团队协作手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-project-management/
+        - file: management/project-management.md
           title: 项目管理手册
         - file: management/digital-assets.md
           title: 数字资产管理手册
@@ -67,7 +67,7 @@ project:
       children:
         - url: https://quanttide.github.io/quanttide-handbook-of-c-language/
           title: C语言手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-django/
+        - file: languages-frameworks-tools/django.md
           title: Django手册
         - url: https://quanttide.github.io/quanttide-handbook-of-docker/
           title: Docker手册
@@ -75,7 +75,7 @@ project:
           title: FastAPI手册
         - url: https://quanttide.github.io/quanttide-handbook-of-figjam/
           title: FigJam手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-figma/
+        - file: languages-frameworks-tools/figma.md
           title: Figma手册
         - file: languages-frameworks-tools/flutter.md
           title: Flutter手册

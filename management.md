@@ -4,10 +4,10 @@
 
 ## 子手册
 
-- [团队管理手册](https://quanttide.github.io/quanttide-handbook-of-management/)
+- 团队管理手册：管理者如何在目标、流程和职责还没有完全标准化时做判断、分配、沟通和纠偏，已在本地页展开。
 - 产品研发手册：需求、规划、设计、研发、验收、上线和复盘，已在本地页展开。
 - 团队协作手册：目标对齐、分工、沟通、评审、交接和复盘，已在本地页展开。
-- [项目管理手册](https://quanttide.github.io/quanttide-handbook-of-project-management/)
+- 项目管理手册：项目、事项、会议议题、范围管理、客户交付、项目复盘和 MVP 项目模板，已在本地页展开。
 - 数字资产管理手册：文档、会议材料、代码仓库、数据处理器和共享空间的归集、命名、权限、归档和清理，已在本地页展开。
 - [文档管理手册](https://quanttide.github.io/quanttide-handbook-of-documentation/)
 - [客户支持手册](https://quanttide.github.io/quanttide-handbook-of-customer-support/)
