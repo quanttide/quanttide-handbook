@@ -15,8 +15,11 @@
 - 新增量潮工作手册总导航页，先上线 5 个一级目录页。
 - 新增五个一级目录页：业务、研发、管理、语言/框架/工具、学科/行业。
 - 新增 MyST 文档站配置和 qtdocs-site OSS 部署 workflow。
+- 新增人力资源手册子模块 `default/human-resources`（quanttide-handbook-of-human-resources，固定于 5ab4472）。
 
 ### Changed
+
+- 更新 `meta/metadata.md` 子模块清单：新增人力资源手册，移除已删除的创始人手册，标注企业实体手册当前固定版本。
 
 - 将研发目录中的 DevOps 手册链接切换到 `docs.quanttide.com/quanttide-handbook/engineering/devops/`。
 - 将研发目录中的数据工程手册链接切换到总手册内的本地页。
