@@ -1,3 +1,6 @@
 [submodule "default/company"]
 	path = default/company
 	url = https://github.com/quanttide/quanttide-handbook-of-business-entity.git
+[submodule "domains/human"]
+	path = domains/human
+	url = https://github.com/quanttide/quanttide-handbook-of-human-resources.git
