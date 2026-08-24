@@ -1,7 +1,0 @@
-# https://jupyterbook.org/en/stable/customize/config.html
-name: quanttide-handbook-of-readme
-title: 量潮工作手册
-author: 量潮科技
-description: 量潮工作手册
-# Jupyter Book Config
-only_build_toc_files: true
