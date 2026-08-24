@@ -8,7 +8,7 @@
 - 初始化项目结构，建立量潮工作手册基础框架
 - 采用 Jupyter Book 结构管理多个独立手册
 - 涵盖业务、研发、管理、语言框架工具、学科行业等多个分类
-- 新增子模块：default/company（企业实体手册）、default/human-resources（人力资源手册）
+- 新增子模块：entity/company、entity/founder
 
 ## 业务手册
 
@@ -62,16 +62,16 @@
 
 ### 企业实体手册
 
-子模块：default/company（固定于 bc2ddf2，v0.3.22-88-gbc2ddf2）
+企业实体手册已发布 0.0.1 版本
 链接：GitHub - quanttide/quanttide-handbook-of-business-entity: 企业实体手册
 要点：
 - 初始化项目结构，建立企业实体手册基础框架
 - 添加供应链管理（scm）目录
 
-### 人力资源手册
+### 创始人手册
 
-子模块：default/human-resources（固定于 5ab4472）
-链接：GitHub - quanttide/quanttide-handbook-of-human-resources: 人力资源手册
+创始人手册已发布 0.0.1 版本
+链接：GitHub - quanttide/quanttide-handbook-of-founder: 创始人手册
 要点：
-- 按人力资源六职能组织：计划、招聘、培训、绩效、薪酬、员工关系
-- 培训与开发已展开核心思想与六种具体方法
+- 初始化项目结构，建立创始人手册基础框架
+- 添加 AGENTS.md - Agent 工作指南
