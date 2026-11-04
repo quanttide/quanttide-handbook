@@ -10,6 +10,8 @@
 
 ## [Unreleased]
 
+- 注册营销管理手册：`domains/market` → quanttide-handbook-of-market-management
+
 ## [0.0.1] - 2026-03-05
 
 ### 探索期

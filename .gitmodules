@@ -4,3 +4,6 @@
 [submodule "domains/human"]
 	path = domains/human
 	url = https://github.com/quanttide/quanttide-handbook-of-human-resources.git
+[submodule "domains/market"]
+	path = domains/market
+	url = https://github.com/quanttide/quanttide-handbook-of-market-management.git
